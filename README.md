@@ -1,3 +1,3 @@
 # DL_Projects
- basic dl projects
+ This repository consists of basic deep learning algorithms which are helpful for beginners.
 1
